@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html/>
 <html>
 <head>
 	<title>Earl P. Bellinger</title>
@@ -6,4 +6,4 @@
 <body>
 This is a test.
 </body>
-</html>>
+</html>
