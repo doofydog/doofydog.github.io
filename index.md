@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Earl P. Bellinger</title>
@@ -7,4 +6,3 @@
 This is a test.
 </body>
 </html>
-/>
